@@ -92,6 +92,7 @@ get_data_network.main() and get_network.main() will count the cooperation relati
 get_wordcloud.main() will generate the corresponding word cloud according to the research paper titles of ISSD and IM and save it as a local png file.After this step is successfully executed, the program will also print the file save path on the console.
 
 > Generating wordclouds of paper titles...
+> 
 > Successfully generated wordclouds of paper titles
 
 

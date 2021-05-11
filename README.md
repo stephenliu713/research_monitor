@@ -95,3 +95,4 @@ get_wordcloud.main() will generate the corresponding word cloud according to the
 > Successfully generated wordclouds of paper titles
 
 
+#### _Thanks to @SvenMichalczyk for his guidance and support throughout this project. Thanks to @MingjieZhang for his suggestions and help in the tag prediction module._
